@@ -1,0 +1,13 @@
+{
+  "name": "TwitterSearch",
+  "description": "An app to search Twitter",
+  "launch_path": "/test/enyo/app.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "Tom Curtis",
+    "url": "http://inntw.com"
+  },
+  "default_locale": "en"
+}
